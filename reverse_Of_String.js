@@ -18,4 +18,8 @@ const reverse = (str) => {
   return backwards.join("");
 };
 
-console.log(reverse("Somebody Else"));
+// const rev_String = (str) => {
+//   return str.split("").reverse().join("");
+// };
+
+console.log(rev_String("Somebody Else"));
