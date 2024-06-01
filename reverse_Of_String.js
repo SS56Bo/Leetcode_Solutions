@@ -22,4 +22,6 @@ const reverse = (str) => {
 //   return str.split("").reverse().join("");
 // };
 
-console.log(rev_String("Somebody Else"));
+// const spread_Reverse = (str) => [...str].reverse().join("");
+
+console.log(reverse("Somebody Else"));
